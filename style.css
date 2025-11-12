@@ -6,27 +6,48 @@
     text-decoration: none;
 }
 
-.space{
+.space {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 20px;
 }
 
-.hr-flex{
+.hr-flex {
     display: flex;
     align-items: center;
 }
 
-.logo{
+.logo {
     vertical-align: middle;
 }
 
-.list-pd{
+.list-pd {
     padding: 10px;
 }
 
-.blue-bn{
+.blue-bn {
     background-color: blue;
     color: white;
+}
+
+
+/* main */
+.section {
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+}
+
+.img-jumbo{ width: 100%;
+    height: auto;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+}
+
+.jumbo{
+    display: flex;
 }
