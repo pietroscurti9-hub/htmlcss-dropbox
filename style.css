@@ -35,7 +35,7 @@
 
 /* main */
 .section {
-    background-color: darkcyan;
+    background-color: rgb(125, 175, 237);
     display: flex;
     justify-content: center;
 }
@@ -46,6 +46,7 @@
 
 .container{
     width: 850px;
+    margin-top: 80px;
     
 }
 
@@ -67,4 +68,5 @@
 }
 .f-size{
     font-size: 70px;
+    margin-bottom: 40px;
 }
