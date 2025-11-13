@@ -160,3 +160,32 @@
 .font-weight{
     font-weight: bold;
 }
+
+.icon-s{
+    justify-content: center;
+    display: flex;
+    margin-top: 70px;
+    border: solid 1px;
+    padding: 5px;
+    align-items: center;
+    border-color: lightgray;
+}
+
+.ult-card-container{
+    display: flex;
+    border: solid 1px;
+    border-color: lightgray;
+}
+
+.first-box{
+    width: 60%;
+}
+
+.second-box{
+    width: 40%;
+    margin: 30px 10px;
+}
+   
+.margin-left{
+    margin-left: 10px;
+}
