@@ -101,7 +101,7 @@
 
 .card-container {
     display: flex;
-    column-gap: 15px;
+    column-gap: 20px;
     justify-content: space-around;
 }
 
@@ -124,9 +124,7 @@
     margin-bottom: 5px;
 }
 
-.card-column {
-    width: 30%;
-}
+
 
 .padding10{
     margin: 20px;
